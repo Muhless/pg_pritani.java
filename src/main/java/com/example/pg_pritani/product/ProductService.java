@@ -1,12 +1,9 @@
-package com.example.pg_pritani.service;
+package com.example.pg_pritani.product;
 
 import java.util.List;
 import java.util.Optional;
 
 import org.springframework.stereotype.Service;
-
-import com.example.pg_pritani.model.Product;
-import com.example.pg_pritani.repository.ProductRepository;
 
 @Service
 public class ProductService {

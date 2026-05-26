@@ -1,4 +1,4 @@
-package com.example.pg_pritani.controller;
+package com.example.pg_pritani.product;
 
 import java.util.List;
 
@@ -10,9 +10,6 @@ import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-
-import com.example.pg_pritani.model.Product;
-import com.example.pg_pritani.service.ProductService;
 
 @RestController
 @RequestMapping("/products")

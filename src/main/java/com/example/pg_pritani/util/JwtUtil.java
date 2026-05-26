@@ -11,7 +11,7 @@ import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.security.Keys;
 
 @Component
-public class jwtUtil {
+public class JwtUtil {
      private final String SECRET = "cee4d198c3d748980f7ffb3454ee374cb6f9bde1ff125202caf4399f505bdbbe";
      private final long EXPIRATION = 86400000;
 

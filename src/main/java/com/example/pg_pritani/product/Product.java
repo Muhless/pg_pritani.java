@@ -1,4 +1,4 @@
-package com.example.pg_pritani.model;
+package com.example.pg_pritani.product;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
